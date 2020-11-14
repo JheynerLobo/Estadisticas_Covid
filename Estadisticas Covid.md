@@ -57,8 +57,8 @@ Usted puede ver el siguiente marco conceptual sobre JavaScript:
   - [Guia completa de JavaScript](https://www.w3schools.com/js/default.asp)
 
 Usted puede ver el siguiente marco conceptual sobre Google Charts:
-  -[Vídeo explicativo de tablas y gráficas Google Charts](https://www.youtube.com/watch?v=QRN91T8rqW4&feature=emb_logo)
-  -[API Google Charts](https://developers.google.com/chart)
+  - [Vídeo explicativo de tablas y gráficas Google Charts](https://www.youtube.com/watch?v=QRN91T8rqW4&feature=emb_logo)
+  - [API Google Charts](https://developers.google.com/chart)
 
   ***
 #### IDE
