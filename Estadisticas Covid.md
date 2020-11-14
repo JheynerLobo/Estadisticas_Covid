@@ -18,14 +18,19 @@
 
   - Proyecto con lectura de datos json a través de la API fecth JavaScript
   - Carga dinámica del JSON 
-  - Archivo json con el menu de la Pizzeria: [ver](https://raw.githubusercontent.com/madarme/persistencia/main/pizza.json)
+  - Archivo json con los casos de contagio : [ver](https://www.datos.gov.co/resource/gt2j-8ykr.json)
   - Uso de Bootstrap como base de estilo en CSS: [ver](https://getbootstrap.com/)
 ***
   #### Contenido del proyecto
-  - [index.html](https://gitlab.com/leiderMartinez/pizzeria-la-qqtena/-/blob/master/index.html): Archivo principal donde se invoca una funcion al cargarse y muestra un formulario donde se ingresa la cantidad de pizzas y sus tamaños respectivos.
-  - [html/opciones.html](https://gitlab.com/leiderMartinez/pizzeria-la-qqtena/-/blob/master/html/opciones.html): Archivo en el cual se invoca una funcion al cargarse que inserta un formulario, donde se llena los sabores de las pizzas y los adicionales del pedido leyendo todo el menu desde un JSON.
-  - [html/factura.html](https://gitlab.com/leiderMartinez/pizzeria-la-qqtena/-/blob/master/html/factura.html): Archivo en el cual se calcula la factura a pagar dependiendo de los tamaños, sabores y adicionales. Se invoca una funcion al cargarse que inserta una tabla donde aparece la descripcion detallada del pedido y sus precios, ademas de mostrar el total a pagar.
-  - [js/proceso.js](https://gitlab.com/leiderMartinez/pizzeria-la-qqtena/-/blob/master/js/pizzeria.js): Archivo JS con el proceso de lectura del JSON y sus funciones adicionales para la impresión de resultados, claculo de precios, comparaciones y demas procedimientos necesarios.
+  - [index.html](https://gitlab.com/Wolf21/estadisticascovid/-/blob/master/index.html): Archivo principal donde se invoca una funcion al cargarse y muestra tres formularios para realizar las consultas a nivel nacional, departamental y municipal.
+
+  - [html/ref1.html](https://gitlab.com/Wolf21/estadisticascovid/-/blob/master/html/ref1.html): Archivo en el cual se invoca una funcion que al cargarse muestra la tabla y gráfica de torta de los casos catalogados por sexo en un departamento seleccionado.
+
+  - [html/ref2.html](https://gitlab.com/Wolf21/estadisticascovid/-/blob/master/html/ref2.html): Archivo en el cual se invoca una funcion que al cargarse muestra la tabla y gráfica de torta de los casos catalogados por fuente de contagio en un municipio seleccionado.
+
+   - [html/ref3.html](https://gitlab.com/Wolf21/estadisticascovid/-/blob/master/html/ref3.html): Archivo en el cual se invoca una funcion que al cargarse muestra la tabla y gráfica de barras de los casos positivos a nivel nacional.
+   
+  - [js/estadisticas.js](https://gitlab.com/Wolf21/estadisticascovid/-/blob/master/js/estadisticas.js): Archivo JS con el proceso de lectura del JSON y sus funciones adicionales para la impresión de los resultados, comparaciones y demás procedimientos necesarios.
 
 ***
 #### Tecnologías
@@ -33,10 +38,11 @@
   - HTML5
   - JavaScript
   - Bootstrap
+  - Google Charts
 
 Usted puede ver el siguiente marco conceptual sobre la API fetch:
 
-  - [Vídeo explicativo lectura con fetch()](https://www.youtube.com/watch?v=DP7Hkr2ss_I)
+  - [Vídeo explicativo lectura con fetch](https://www.youtube.com/watch?v=DP7Hkr2ss_I)
   - [Gúia de Mozzilla JSON](https://developer.mozilla.org/es/docs/Learn/JavaScript/Objects/JSON)
   - [Breve esplicación del JSON](https://www.w3schools.com/whatis/whatis_json.asp)
 
@@ -49,11 +55,15 @@ Usted puede ver el siguiente marco conceptual sobre HTML5:
 Usted puede ver el siguiente marco conceptual sobre JavaScript:
   - [Guia completa de JavaScript](https://www.w3schools.com/js/default.asp)
 
+Usted puede ver el siguiente marco conceptual sobre Google Charts:
+  -[Vídeo explicativo de tablas y gráficas Google Charts](https://www.youtube.com/watch?v=QRN91T8rqW4&feature=emb_logo)
+  -[API Google Charts](https://developers.google.com/chart)
+
   ***
 #### IDE
 
 - El proyecto se desarrolla usando sublime text 3 
-- Visor de JSON - [ir](http://jsonviewer.stack.hu/)
+- Visor de JSON ➔ [ir](http://jsonviewer.stack.hu/)
 
 ***
 ### Instalación
@@ -70,7 +80,7 @@ El software es necesario para ver la interacción por consola y depuración del 
 ***
 ### Demo
 
-El proyecto se desplego en el servidor madarme.co y para ver el demo de la aplicación puede dirigirse a: [Pizzería la QQteña](http://ufps22.madarme.co/Pizzeria/index.html).
+El proyecto se desplegó en el servidor madarme.co y para ver el demo de la aplicación puede dirigirse a: [Estadísticas covid-19](http://ufps22.madarme.co/estadistica_covid/index.html).
 
 ***
 ### Autor(es)
