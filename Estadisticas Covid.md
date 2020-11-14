@@ -63,7 +63,7 @@ Usted puede ver el siguiente marco conceptual sobre Google Charts:
 #### IDE
 
 - El proyecto se desarrolla usando sublime text 3 
-- Visor de JSON ➔ [ir](http://jsonviewer.stack.hu/)
+- Visor de JSON ➔ [descargar](http://jsonviewer.stack.hu/)
 
 ***
 ### Instalación
