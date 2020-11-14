@@ -1,7 +1,7 @@
-![Pizzería](.images/blue-covid-banner.jpg)
+![Estadisticas](.images/blue-covid-banner.jpg)
 # Título del proyecto:
 
-#### Pizzería la QQteña 
+#### Estadisticas Covid-19 
 ***
 ## Índice
 1. [Características](#características)
