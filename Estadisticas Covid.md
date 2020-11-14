@@ -1,4 +1,4 @@
-![Estadisticas](.images/blue-covid-banner.jpg)
+![Estadisticas](./images/blue-covid-banner.jpg)
 # Título del proyecto:
 
 #### Estadisticas Covid-19 
