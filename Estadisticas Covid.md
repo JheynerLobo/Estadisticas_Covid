@@ -24,13 +24,13 @@
   #### Contenido del proyecto
   - [index.html](https://gitlab.com/Wolf21/estadisticascovid/-/blob/master/index.html): Archivo principal donde se invoca una funcion al cargarse y muestra tres formularios para realizar las consultas a nivel nacional, departamental y municipal.
 
-  - [html/ref1.html](https://gitlab.com/Wolf21/estadisticascovid/-/blob/master/html/ref1.html): Archivo en el cual se invoca una funcion que al cargarse muestra la tabla y gráfica de torta de los casos catalogados por sexo en un departamento seleccionado.
+  - [ref1.html](https://gitlab.com/Wolf21/estadisticascovid/-/blob/master/html/ref1.html): Archivo en el cual se invoca una funcion que al cargarse muestra la tabla y gráfica de torta de los casos catalogados por sexo en un departamento seleccionado.
 
-  - [html/ref2.html](https://gitlab.com/Wolf21/estadisticascovid/-/blob/master/html/ref2.html): Archivo en el cual se invoca una funcion que al cargarse muestra la tabla y gráfica de torta de los casos catalogados por fuente de contagio en un municipio seleccionado.
+  - [ref2.html](https://gitlab.com/Wolf21/estadisticascovid/-/blob/master/html/ref2.html): Archivo en el cual se invoca una funcion que al cargarse muestra la tabla y gráfica de torta de los casos catalogados por fuente de contagio en un municipio seleccionado.
 
-   - [html/ref3.html](https://gitlab.com/Wolf21/estadisticascovid/-/blob/master/html/ref3.html): Archivo en el cual se invoca una funcion que al cargarse muestra la tabla y gráfica de barras de los casos positivos a nivel nacional.
+   - [ref3.html](https://gitlab.com/Wolf21/estadisticascovid/-/blob/master/html/ref3.html): Archivo en el cual se invoca una funcion que al cargarse muestra la tabla y gráfica de barras de los casos positivos a nivel nacional.
    
-  - [js/estadisticas.js](https://gitlab.com/Wolf21/estadisticascovid/-/blob/master/js/estadisticas.js): Archivo JS con el proceso de lectura del JSON y sus funciones adicionales para la impresión de los resultados, comparaciones y demás procedimientos necesarios.
+  - [estadisticas.js](https://gitlab.com/Wolf21/estadisticascovid/-/blob/master/js/estadisticas.js): Archivo JS con el proceso de lectura del JSON y sus funciones adicionales para la impresión de los resultados, comparaciones y demás procedimientos necesarios.
 
 ***
 #### Tecnologías
