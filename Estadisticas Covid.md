@@ -74,8 +74,11 @@ El proyecto se desplego en el servidor madarme.co y para ver el demo de la aplic
 
 ***
 ### Autor(es)
-Proyecto desarrollado por Leider Martinez (<leideryesidmm@ufps.edu.co>).
-                          Jheyner Lobo (<jheyneralexanderld@ufps.edu.co>)
+Proyecto desarrollado por: 
+
+Leider Martinez (<leideryesidmm@ufps.edu.co>).
+                          
+Jheyner Lobo (<jheyneralexanderld@ufps.edu.co>).
 
 ***
 ### Institución Académica   
