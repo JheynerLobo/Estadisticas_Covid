@@ -20,6 +20,7 @@
   - Carga dinámica del JSON 
   - Archivo json con los casos de contagio : [ver](https://www.datos.gov.co/resource/gt2j-8ykr.json)
   - Uso de Bootstrap como base de estilo en CSS: [ver](https://getbootstrap.com/)
+  - Uso de Google Charts
 ***
   #### Contenido del proyecto
   - [index.html](https://gitlab.com/Wolf21/estadisticascovid/-/blob/master/index.html): Archivo principal donde se invoca una funcion al cargarse y muestra tres formularios para realizar las consultas a nivel nacional, departamental y municipal.
