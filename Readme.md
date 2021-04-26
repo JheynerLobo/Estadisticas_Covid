@@ -24,15 +24,13 @@
   - Uso de la API Google Charts para la creación de gráficas estadísticas.
 ***
   #### Contenido del proyecto
-  - [index.html](https://gitlab.com/Wolf21/estadisticascovid/-/blob/master/index.html): Archivo principal donde se invoca una funcion al cargarse y muestra tres formularios para realizar las consultas a nivel nacional, departamental y municipal.
-
-  - [ref1.html](https://gitlab.com/Wolf21/estadisticascovid/-/blob/master/html/ref1.html): Archivo en el cual se invoca una funcion que al cargarse muestra la tabla y gráfica de torta de los casos catalogados por sexo en un departamento seleccionado.
-
-  - [ref2.html](https://gitlab.com/Wolf21/estadisticascovid/-/blob/master/html/ref2.html): Archivo en el cual se invoca una funcion que al cargarse muestra la tabla y gráfica de torta de los casos catalogados por fuente de contagio en un municipio seleccionado.
-
-   - [ref3.html](https://gitlab.com/Wolf21/estadisticascovid/-/blob/master/html/ref3.html): Archivo en el cual se invoca una funcion que al cargarse muestra la tabla y gráfica de barras de los casos positivos a nivel nacional.
-   
-  - [estadisticas.js](https://gitlab.com/Wolf21/estadisticascovid/-/blob/master/js/estadisticas.js): Archivo JS con el proceso de lectura del JSON y sus funciones adicionales para la impresión de los resultados, comparaciones y demás procedimientos necesarios.
+  |Ruta de archivo | Descripción | 
+  | --- | | --- |
+  | [index.html](https://gitlab.com/Wolf21/estadisticascovid/-/blob/master/index.html) | Archivo principal donde se invoca una funcion al cargarse y muestra tres formularios para realizar las consultas a nivel nacional, departamental y municipal.|
+  | [ref1.html](https://gitlab.com/Wolf21/estadisticascovid/-/blob/master/html/ref1.html)|  Archivo en el cual se invoca una funcion que al cargarse muestra la tabla y gráfica de torta de los casos catalogados por sexo en un departamento seleccionado.|
+  |[ref2.html](https://gitlab.com/Wolf21/estadisticascovid/-/blob/master/html/ref2.html)| Archivo en el cual se invoca una funcion que al cargarse muestra la tabla y gráfica de torta de los casos catalogados por fuente de contagio en un municipio seleccionado.|
+  |[ref3.html](https://gitlab.com/Wolf21/estadisticascovid/-/blob/master/html/ref3.html)| Archivo en el cual se invoca una funcion que al cargarse muestra la tabla y gráfica de barras de los casos positivos a nivel nacional.|
+  |[estadisticas.js](https://gitlab.com/Wolf21/estadisticascovid/-/blob/master/js/estadisticas.js)| Archivo JS con el proceso de lectura del JSON y sus funciones adicionales para la impresión de los resultados, comparaciones y demás procedimientos necesarios.|
 
 ***
 #### Tecnologías
