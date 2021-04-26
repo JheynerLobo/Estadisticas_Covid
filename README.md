@@ -1,4 +1,4 @@
-![Banner](https://gitlab.com/Wolf21/estadisticascovid/-/blob/master/images/blue-covid-banner.jpg)
+![Banner]()
 # Título del Proyecto
 ### Curriculum Vitae
 
