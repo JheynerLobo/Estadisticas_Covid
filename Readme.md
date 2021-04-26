@@ -38,9 +38,10 @@
   - [![HTML5](https://img.shields.io/badge/HTML5-green)](https://developer.mozilla.org/es/docs/Web/Guide/HTML/HTML5) 
 
 HTML5 no es una nueva versión del antiguo lenguaje de etiquetas, ni siquiera una mejora de esta ya antigua tecnología, sino un concepto nuevo para la construcción del sitio web y aplicaciones en una era que combina dispositivos móviles, computación en la nube.
-HTML5 provee básicamente tres características: Estructura, estilo y funcionalidad. HTML5 es considerado el producto de la combinación de HTML, CSS y JavaScript. Estas tecnologías son altamente dependientes y actúan como una sola unidad organizada bajo la especificación de HTML5.[Gauchat, 2012](https://books.google.es/books?hl=es&lr=&id=szDMlRzwzuUC&oi=fnd&pg=PA1&dq=html5&ots=0CmNW-sEO9&sig=dNhLEPv9DllmtsPp1YBE5QFxdxU#v=onepage&q=html5&f=false)
+HTML5 provee básicamente tres características: Estructura, estilo y funcionalidad. HTML5 es considerado el producto de la combinación de HTML, CSS y JavaScript. Estas tecnologías son altamente dependientes y actúan como una sola unidad organizada bajo la especificación de HTML5. [Gauchat, 2012](https://books.google.es/books?hl=es&lr=&id=szDMlRzwzuUC&oi=fnd&pg=PA1&dq=html5&ots=0CmNW-sEO9&sig=dNhLEPv9DllmtsPp1YBE5QFxdxU#v=onepage&q=html5&f=false)
 
-A continuación se puede encontrar un curso de Html [Practicar](https://www.w3schools.com/html/)
+A continuación se puede encontrar un curso de Html [Iniciar](https://www.w3schools.com/html/)
+
   - [![JavaScript](https://img.shields.io/badge/JavaScript-green)](https://developer.mozilla.org/es/docs/Web/JavaScript)
   - [![CSS](https://img.shields.io/badge/CSS-green)](https://developer.mozilla.org/es/docs/Learn/CSS)
   - [![Bootstrap](https://img.shields.io/badge/Bootstrap-green)](https://developer.mozilla.org/es/docs/Learn/CSS)
