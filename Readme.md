@@ -24,7 +24,7 @@
   - Uso de la API Google Charts para la creación de gráficas estadísticas.
 
   #### Contenido del proyecto
-  | Ruta de archivo   |      Descripción del archivo      |
+  | Ruta del archivo   |      Descripción      |
 |:----------:|-------------|
 |[index.html](https://gitlab.com/Wolf21/estadisticascovid/-/blob/master/index.html) |Archivo principal donde se invoca una funcion al cargarse y muestra tres formularios para realizar las consultas a nivel nacional, departamental y municipal.|
 |[ref1.html](https://gitlab.com/Wolf21/estadisticascovid/-/blob/master/html/ref1.html) |Archivo en el cual se invoca una funcion que al cargarse muestra la tabla y gráfica de torta de los casos catalogados por sexo en un departamento seleccionado.|
@@ -35,10 +35,17 @@
 
 #### Tecnologías
 
-  - HTML5
-  - JavaScript
+  - [![HTML5](https://img.shields.io/badge/HTML5-green)](https://developer.mozilla.org/es/docs/Web/Guide/HTML/HTML5) 
+Es la última versión de HTML. El término representa dos conceptos diferentes:
+Se trata de una nueva versión de HTML, con nuevos elementos, atributos y comportamientos.
+Contiene un conjunto más amplio de tecnologías que permite a los sitios Web y a las aplicaciones ser más diversas y de gran alcance. A este conjunto se le llama HTML5 y amigos, a menudo reducido a HTML5 .
+Diseñado para ser utilizable por todos los desarrolladores de Open Web, esta página referencía numerosos recursos sobre las tecnologías de HTML5, clasificados en varios grupos según su función.
+
+  - [![JavaScript](https://img.shields.io/badge/JavaScript-green)](https://developer.mozilla.org/es/docs/Web/JavaScript)
+  - [![CSS](https://img.shields.io/badge/CSS-green)](https://developer.mozilla.org/es/docs/Learn/CSS)
+  - [![Bootstrap](https://img.shields.io/badge/Bootstrap-green)](https://developer.mozilla.org/es/docs/Learn/CSS)
   - Bootstrap
-  - Google Charts
+  - Google Charts 
 
 Usted puede ver el siguiente marco conceptual sobre la API fetch:
 
