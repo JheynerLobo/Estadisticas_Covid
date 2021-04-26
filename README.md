@@ -1,4 +1,4 @@
-![Banner](http://www.madarme.co/portada-web.png)
+![Banner](https://gitlab.com/Wolf21/estadisticascovid/-/blob/master/images/blue-covid-banner.jpg)
 # Título del Proyecto
 ### Curriculum Vitae
 
