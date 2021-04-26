@@ -37,12 +37,8 @@
 
   - [![HTML5](https://img.shields.io/badge/HTML5-green)](https://developer.mozilla.org/es/docs/Web/Guide/HTML/HTML5) 
 
-Es la última versión de HTML. El término representa dos conceptos diferentes:
-- Se trata de una nueva versión de HTML, con nuevos elementos, atributos y comportamientos.
-- Contiene un conjunto más amplio de tecnologías que permite a los sitios Web y a las aplicaciones ser más diversas y de gran alcance. A este conjunto se le llama HTML5 y amigos, a menudo reducido a HTML5 .
-
--Diseñado para ser utilizable por todos los desarrolladores de Open Web, esta página referencía numerosos recursos sobre las tecnologías de HTML5, clasificados en varios grupos según su función.
-
+HTML5 no es una nueva versión del antiguo lenguaje de etiquetas, ni siquiera una mejora de esta ya antigua tecnología, sino un concepto nuevo para la construcción del sitio web y aplicaciones en una era que combina dispositivos móviles, computación en la nube.
+HTML5 provee básicamente tres características: Estructura, estilo y funcionalidad. HTML5 es considerado el producto de la combinación de HTML, CSS y JavaScript. Estas tecnologías son altamente dependientes y actúan como una sola unidad organizada bajo la especificación de HTML5.[Gauchat, 2012](https://books.google.es/books?hl=es&lr=&id=szDMlRzwzuUC&oi=fnd&pg=PA1&dq=html5&ots=0CmNW-sEO9&sig=dNhLEPv9DllmtsPp1YBE5QFxdxU#v=onepage&q=html5&f=false)
   - [![JavaScript](https://img.shields.io/badge/JavaScript-green)](https://developer.mozilla.org/es/docs/Web/JavaScript)
   - [![CSS](https://img.shields.io/badge/CSS-green)](https://developer.mozilla.org/es/docs/Learn/CSS)
   - [![Bootstrap](https://img.shields.io/badge/Bootstrap-green)](https://developer.mozilla.org/es/docs/Learn/CSS)
@@ -106,3 +102,6 @@ Proyecto desarrollado en la Materia programación web del  [Programa de Ingenier
 
    [Programa de Ingeniería de Sistemas]:<https://ingsistemas.cloud.ufps.edu.co/>
    [Universidad Francisco de Paula Santander]:<https://ww2.ufps.edu.co/>
+
+### Referencias
+Gauchat, J. D. (2012). El gran libro de HTML5, CSS3 y Javascript. Marcombo.
