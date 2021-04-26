@@ -47,6 +47,7 @@ A continuación se puede encontrar un curso de Html [Iniciar](https://www.w3scho
 Javascript es un lenguaje interpretado usado para múltiples propósitos pero solo considerado como un complemento hasta ahora. Una de las innovaciones que ayudó a cambiar el modo en que vemos Javascript fue el desarrollo de nuevos motores de interpretación, creados para acelerar el procesamiento de código. La clave de los motores más exitosos fue transformar el código Javascript en código máquina para lograr velocidades de ejecución similares a aquellas encontradas en aplicaciones de escritorio.
 Esta mejorada capacidad permitió superar viejas limitaciones de rendimiento y confirmar el lenguaje Javascript como la mejor opción para la web. 
 
+A continuación se puede encontrar un curso de Html [Iniciar](https://www.w3schools.com/js/)
 
   - [![CSS](https://img.shields.io/badge/CSS-green)](https://developer.mozilla.org/es/docs/Learn/CSS)
 
@@ -56,8 +57,12 @@ IMPORTANTE: En este momento las nuevas incorporaciones de CSS3 están siendo imp
 Oficialmente CSS nada tiene que ver con HTML5. CSS no es parte de la especificación y nunca lo fue. Este lenguaje es, de hecho, un complemento desarrollado para superar las limitaciones y reducir la complejidad de HTML. En consecuencia, CSS pronto fue
 adoptado como la forma de separar la estructura de la presentación. Desde entonces, CSS ha crecido y ganado importancia, pero siempre desarrollado en paralelo, enfocado en las necesidades de los diseñadores y apartado del proceso de evolución de HTML. [Gauchat, 2012](https://gutl.jovenclub.cu/wp-content/uploads/2013/10/El+gran+libro+de+HTML5+CSS3+y+Javascrip.pdf)
 
+A continuación se puede encontrar un curso de Html [Iniciar](https://www.w3schools.com/css/)
+
   - [![Bootstrap](https://img.shields.io/badge/Bootstrap-green)](https://developer.mozilla.org/es/docs/Learn/CSS)
   - Google Charts 
+
+  
 
 A continuación puede visualizar un video explicativo de cada una de las tecnologías anteriormente nombradas.
 
