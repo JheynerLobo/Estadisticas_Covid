@@ -2,7 +2,7 @@
 # Título del proyecto:
 
 #### Estadisticas Covid-19 
-***
+
 ## Índice
 1. [Características](#características) 📋
 2. [Contenido del proyecto](#contenido-del-proyecto) 📁
@@ -13,7 +13,7 @@
 7. [Autores](#autores) 🧍
 8. [Institución Académica](#institución-académica) 🏫
 9. [Referencias](#referencias) 📎
-***
+
 
 #### Características:
 
@@ -22,17 +22,17 @@
   - Archivo json con los casos de contagio : [ver](https://www.datos.gov.co/resource/gt2j-8ykr.json)
   - Uso de Bootstrap como base de estilo en CSS: [ver](https://getbootstrap.com/)
   - Uso de la API Google Charts para la creación de gráficas estadísticas.
-***
-  #### Contenido del proyecto
-  |Ruta de archivo | Descripción | 
-  | --- | | :---: |
-  | [index.html](https://gitlab.com/Wolf21/estadisticascovid/-/blob/master/index.html) | Archivo principal donde se invoca una funcion al cargarse y muestra tres formularios para realizar las consultas a nivel nacional, departamental y municipal.|
-  | [ref1.html](https://gitlab.com/Wolf21/estadisticascovid/-/blob/master/html/ref1.html)|  Archivo en el cual se invoca una funcion que al cargarse muestra la tabla y gráfica de torta de los casos catalogados por sexo en un departamento seleccionado.|
-  |[ref2.html](https://gitlab.com/Wolf21/estadisticascovid/-/blob/master/html/ref2.html)| Archivo en el cual se invoca una funcion que al cargarse muestra la tabla y gráfica de torta de los casos catalogados por fuente de contagio en un municipio seleccionado.|
-  |[ref3.html](https://gitlab.com/Wolf21/estadisticascovid/-/blob/master/html/ref3.html)| Archivo en el cual se invoca una funcion que al cargarse muestra la tabla y gráfica de barras de los casos positivos a nivel nacional.|
-  |[estadisticas.js](https://gitlab.com/Wolf21/estadisticascovid/-/blob/master/js/estadisticas.js)| Archivo JS con el proceso de lectura del JSON y sus funciones adicionales para la impresión de los resultados, comparaciones y demás procedimientos necesarios.|
 
-***
+  #### Contenido del proyecto
+  | Ruta de archivo   |      Descripción del archivo      |
+|:----------:|-------------|
+|[index.html](https://gitlab.com/Wolf21/estadisticascovid/-/blob/master/index.html) |Archivo principal donde se invoca una funcion al cargarse y muestra tres formularios para realizar las consultas a nivel nacional, departamental y municipal.|
+|[ref1.html](https://gitlab.com/Wolf21/estadisticascovid/-/blob/master/html/ref1.html) |Archivo en el cual se invoca una funcion que al cargarse muestra la tabla y gráfica de torta de los casos catalogados por sexo en un departamento seleccionado.|
+|[ref2.html](https://gitlab.com/Wolf21/estadisticascovid/-/blob/master/html/ref2.html)|Archivo en el cual se invoca una funcion que al cargarse muestra la tabla y gráfica de torta de los casos catalogados por fuente de contagio en un municipio seleccionado.| 
+|[ref3.html](https://gitlab.com/Wolf21/estadisticascovid/-/blob/master/html/ref3.html)|Archivo en el cual se invoca una funcion que al cargarse muestra la tabla y gráfica de barras de los casos positivos a nivel nacional.|
+|[estadisticas.js](https://gitlab.com/Wolf21/estadisticascovid/-/blob/master/js/estadisticas.js)|Archivo JS con el proceso de lectura del JSON y sus funciones adicionales para la impresión de los resultados, comparaciones y demás procedimientos necesarios.|
+
+
 #### Tecnologías
 
   - HTML5
@@ -59,13 +59,13 @@ Usted puede ver el siguiente marco conceptual sobre Google Charts:
   - [Vídeo explicativo de tablas y gráficas Google Charts](https://www.youtube.com/watch?v=QRN91T8rqW4&feature=emb_logo)
   - [API Google Charts](https://developers.google.com/chart)
 
-  ***
+
 #### IDE
 
 - El proyecto se desarrolla usando sublime text 3 
 - Visor de JSON ➔ [descargar](http://jsonviewer.stack.hu/)
 
-***
+
 ### Instalación
 
 Firefox Devoloper Edition-> [descargar](https://www.mozilla.org/es-ES/firefox/developer/).
@@ -82,7 +82,7 @@ El software es necesario para ver la interacción por consola y depuración del 
 
 El proyecto se desplegó en el servidor madarme.co y para ver el demo de la aplicación puede dirigirse a: [Estadísticas covid-19](http://ufps22.madarme.co/estadistica_covid/index.html).
 
-***
+
 ### Autores
 Proyecto desarrollado por: 
 
@@ -90,7 +90,7 @@ Leider Martinez (<leideryesidmm@ufps.edu.co>).
                           
 Jheyner Lobo (<jheyneralexanderld@ufps.edu.co>).
 
-***
+
 ### Institución Académica   
 Proyecto desarrollado en la Materia programación web del  [Programa de Ingeniería de Sistemas] de la [Universidad Francisco de Paula Santander]
 
