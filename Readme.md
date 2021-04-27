@@ -47,9 +47,8 @@ A continuación se puede encontrar un curso de Html [Iniciar](https://www.w3scho
 Javascript es un lenguaje interpretado usado para múltiples propósitos pero solo considerado como un complemento hasta ahora. Una de las innovaciones que ayudó a cambiar el modo en que vemos Javascript fue el desarrollo de nuevos motores de interpretación, creados para acelerar el procesamiento de código. La clave de los motores más exitosos fue transformar el código Javascript en código máquina para lograr velocidades de ejecución similares a aquellas encontradas en aplicaciones de escritorio.
 Esta mejorada capacidad permitió superar viejas limitaciones de rendimiento y confirmar el lenguaje Javascript como la mejor opción para la web. 
 
-Existen tres técnicas para incorporar
-código Javascript dentro de HTML. Sin embargo, al igual que en CSS, solo la inclusión de
-archivos externos es la recomendada a usar en HTML5. 
+Existen tres técnicas para incorporar código Javascript dentro de HTML. Sin embargo, al igual que en CSS, solo la inclusión de
+archivos externos es la recomendada a usar en HTML5.  
 
 A continuación se puede encontrar un curso de Html [Iniciar](https://www.w3schools.com/js/)
 
@@ -59,7 +58,7 @@ CSS es un lenguaje que trabaja junto con HTML para proveer estilos visuales a lo
 IMPORTANTE: En este momento las nuevas incorporaciones de CSS3 están siendo implementadas en las últimas versiones de los navegadores más populares, pero algunas de ellas se encuentran aún en estado experimental. 
 
 Oficialmente CSS nada tiene que ver con HTML5. CSS no es parte de la especificación y nunca lo fue. Este lenguaje es, de hecho, un complemento desarrollado para superar las limitaciones y reducir la complejidad de HTML. En consecuencia, CSS pronto fue
-adoptado como la forma de separar la estructura de la presentación. Desde entonces, CSS ha crecido y ganado importancia, pero siempre desarrollado en paralelo, enfocado en las necesidades de los diseñadores y apartado del proceso de evolución de HTML. [Gauchat, 2012]()
+adoptado como la forma de separar la estructura de la presentación. Desde entonces, CSS ha crecido y ganado importancia, pero siempre desarrollado en paralelo, enfocado en las necesidades de los diseñadores y apartado del proceso de evolución de HTML.    [(Gauchat, 2012)](#gauchat-g-2012-el-gran-libro-de-html5-css3-y-javascript-marcombo)
 
 A continuación se puede encontrar un curso de Html [Iniciar](https://www.w3schools.com/css/)
 
@@ -68,8 +67,8 @@ A continuación se puede encontrar un curso de Html [Iniciar](https://www.w3scho
 Como	ya	hemos	comentado	antes,	Bootstrap	es	uno	de	los	frameworks	más	populares	y utilizados	del	mercado	para	la	creación	de	páginas	responsive,	habiendo	sido	desarrollado por	el	equipo	de	Twitter.
 Entre	los	navegadores	soportados	se	encuentran	Chrome,	Firefox,	Opera,	Safari	e	Internet Explorer	a	partir	de	la	versión	8	(aunque	en	la	versión	7	también	funciona	correctamente).
 Está	preparado	para	funcionar	tanto	en	navegadores	de	PCs	y	portátiles	con	cualquier tamaño	de	pantalla	así	como	para	tablets	y	smartphones	de	tamaños	mucho	más reducidos.
-Para	conseguir	que	una	misma	web	se	pueda	visualizar	correctamente	en	todos	esos tamaños	de	pantalla	ha	diseñado	un	avanzado	sistema	de	rejilla	dividido	en	columnas	para el	posicionamiento	de	los	elementos	de	nuestra	web.	Además	incorpora	otras	muchas utilidades	y	complementos	(formularios,	botones,	barras	de	navegación,	etc.)	para simplificar	el	desarrollo	de	una	web	responsive. [Gallego, 2018]()
-
+Para	conseguir	que	una	misma	web	se	pueda	visualizar	correctamente	en	todos	esos tamaños	de	pantalla	ha	diseñado	un	avanzado	sistema	de	rejilla	dividido	en	columnas	para el	posicionamiento	de	los	elementos	de	nuestra	web.	Además	incorpora	otras	muchas utilidades	y	complementos	(formularios,	botones,	barras	de	navegación,	etc.)	para simplificar	el	desarrollo	de	una	web	responsive. [Gallego, 2018](#gallego-a-2018-curso.bootstrap-4-css-framework-diseño-web)
+Gallego, A. (2018). Curso Bootstrap 4 CSS Framwork diseño web.
   
   A continuación se puede encontrar un curso de Html [Iniciar](https://www.w3schools.com/bootstrap/)
   
@@ -133,4 +132,5 @@ Proyecto desarrollado en la Materia programación web del  [Programa de Ingenier
 ### Referencias 
 
 
-###### Gauchat, G. (2012). El gran libro de HTML5, CSS3 y Javascript, Marcombo..
+###### Gauchat, G. (2012). El gran libro de HTML5, CSS3 y Javascript, Marcombo.
+###### Gallego, A. (2018). Curso Bootstrap 4 CSS Framwork diseño web.
