@@ -38,7 +38,7 @@
   - [![HTML5](https://img.shields.io/badge/HTML5-green)](https://gutl.jovenclub.cu/wp-content/uploads/2013/10/El+gran+libro+de+HTML5+CSS3+y+Javascrip.pdf) 
 
 HTML5 no es una nueva versión del antiguo lenguaje de etiquetas, ni siquiera una mejora de esta ya antigua tecnología, sino un concepto nuevo para la construcción del sitio web y aplicaciones en una era que combina dispositivos móviles, computación en la nube.
-HTML5 provee básicamente tres características: Estructura, estilo y funcionalidad. HTML5 es considerado el producto de la combinación de HTML, CSS y JavaScript. Estas tecnologías son altamente dependientes y actúan como una sola unidad organizada bajo la especificación de HTML5.[(Gauchat, 2012)](#gauchat-g-2012-el-gran-libro-de-html5-css3-y-javascript-marcombo).
+HTML5 provee básicamente tres características: Estructura, estilo y funcionalidad. HTML5 es considerado el producto de la combinación de HTML, CSS y JavaScript. Estas tecnologías son altamente dependientes y actúan como una sola unidad organizada bajo la especificación de HTML5.[(Gauchat, 2012)](#gauchat-g-2012-el-gran-libro-de-html5-css3-y-javascript-20128).
 
 A continuación se puede encontrar un curso de Html [Iniciar](https://www.w3schools.com/html/)
 
@@ -58,7 +58,7 @@ CSS es un lenguaje que trabaja junto con HTML para proveer estilos visuales a lo
 IMPORTANTE: En este momento las nuevas incorporaciones de CSS3 están siendo implementadas en las últimas versiones de los navegadores más populares, pero algunas de ellas se encuentran aún en estado experimental. 
 
 Oficialmente CSS nada tiene que ver con HTML5. CSS no es parte de la especificación y nunca lo fue. Este lenguaje es, de hecho, un complemento desarrollado para superar las limitaciones y reducir la complejidad de HTML. En consecuencia, CSS pronto fue
-adoptado como la forma de separar la estructura de la presentación. Desde entonces, CSS ha crecido y ganado importancia, pero siempre desarrollado en paralelo, enfocado en las necesidades de los diseñadores y apartado del proceso de evolución de HTML.    [(Gauchat, 2012)](#gauchat-g-2012-el-gran-libro-de-html5-css3-y-javascript-marcombo)
+adoptado como la forma de separar la estructura de la presentación. Desde entonces, CSS ha crecido y ganado importancia, pero siempre desarrollado en paralelo, enfocado en las necesidades de los diseñadores y apartado del proceso de evolución de HTML.    [(Gauchat, 2012)](#gauchat-g-2012-el-gran-libro-de-html5-css3-y-javascript-20128)
 
 A continuación se puede encontrar un curso de CSS [Iniciar](https://www.w3schools.com/css/)
 
@@ -129,5 +129,5 @@ Proyecto desarrollado en la Materia programación web del  [Programa de Ingenier
 ### Referencias 
 
 
-###### Gauchat, G. (2012). El gran libro de HTML5, CSS3 y Javascript, Marcombo.
+###### Gauchat, G. (2012). El gran libro de HTML5, CSS3 y Javascript, 2012(8).
 ###### Gallego, A. (2018). Curso Bootstrap 4 CSS Framework diseño web.
