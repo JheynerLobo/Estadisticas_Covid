@@ -52,7 +52,7 @@ archivos externos es la recomendada a usar en HTML5. [(Gauchat, 2012)](#gauchat-
 
 A continuación se puede encontrar un curso de JavaScript [Iniciar](https://www.w3schools.com/js/)
 
-  - [![CSS](https://img.shields.io/badge/CSS-green)](https://gutl.jovenclub.cu/wp-content/uploads/2013/10/El+gran+libro+de+HTML5+CSS3+y+Javascrip.pdf)
+  - [![CSS](https://img.shields.io/badge/CSS-green)](https://books.google.es/books?hl=es&lr=&id=szDMlRzwzuUC&oi=fnd&pg=PA1&dq=html5&ots=0CmNW1rDQa&sig=kpHZE2oVcxAE21hsyLIYWv97fak#v=onepage&q=html5&f=false)
 
 CSS es un lenguaje que trabaja junto con HTML para proveer estilos visuales a los elementos del documento, como tamaño, color, fondo, bordes, etc…
 IMPORTANTE: En este momento las nuevas incorporaciones de CSS3 están siendo implementadas en las últimas versiones de los navegadores más populares, pero algunas de ellas se encuentran aún en estado experimental. 
