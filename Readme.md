@@ -1,4 +1,4 @@
-![Estadisticas](./images/blue-covid-banner.jpg)
+54r45![Estadisticas](./images/blue-covid-banner.jpg)
 # Título del proyecto:
 
 #### Estadisticas Covid-19 
@@ -76,7 +76,7 @@ A continuación se puede encontrar un tutorial de Bootstrap [Iniciar](https://ww
 
 Es la API de gráficos de Google. Una herramienta que permite a desarrolladores de aplicaciones web crear gráficos a partir de los datos escogidos e incrustarlos en las páginas web.  La API además ofrece una gran variedad de diseños de gráficos a escoger.
 
-Existe la funcionalidad básica de presentar tablas personalizadas así como los diferentes diseños aglutinados en gráficos de barras, gráficos de cajas, candlestick, gráficos compuestos, iconos dinámicos, gráficos de línea, mapas, diagramas circulares. [(Agencia de marketing digital Tresce)](#agencia-de-marketing-digital-tresce-2014-google-charts-la-api-de-graficos-para-el-desarrollo-web)
+Existe la funcionalidad básica de presentar tablas personalizadas así como los diferentes diseños aglutinados en gráficos de barras, gráficos de cajas, candlestick, gráficos compuestos, iconos dinámicos, gráficos de línea, mapas, diagramas circulares. [(Agencia de marketing digital Tresce)](#agencia-de-marketing-digital-tresce-2014-google-charts-la-api-de-gráficos-para-el-desarrollo-web)
 
 A continuación se puede encontrar un tutorial de Google Charts [Entrar](https://developers.google.com/chart/interactive/docs/quick_start)
 
