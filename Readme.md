@@ -67,7 +67,7 @@ A continuación se puede encontrar un curso de Html [Iniciar](https://www.w3scho
 Como	ya	hemos	comentado	antes,	Bootstrap	es	uno	de	los	frameworks	más	populares	y utilizados	del	mercado	para	la	creación	de	páginas	responsive,	habiendo	sido	desarrollado por	el	equipo	de	Twitter.
 Entre	los	navegadores	soportados	se	encuentran	Chrome,	Firefox,	Opera,	Safari	e	Internet Explorer	a	partir	de	la	versión	8	(aunque	en	la	versión	7	también	funciona	correctamente).
 Está	preparado	para	funcionar	tanto	en	navegadores	de	PCs	y	portátiles	con	cualquier tamaño	de	pantalla	así	como	para	tablets	y	smartphones	de	tamaños	mucho	más reducidos.
-Para	conseguir	que	una	misma	web	se	pueda	visualizar	correctamente	en	todos	esos tamaños	de	pantalla	ha	diseñado	un	avanzado	sistema	de	rejilla	dividido	en	columnas	para el	posicionamiento	de	los	elementos	de	nuestra	web.	Además	incorpora	otras	muchas utilidades	y	complementos	(formularios,	botones,	barras	de	navegación,	etc.)	para simplificar	el	desarrollo	de	una	web	responsive. [Gallego, 2018](#gallego-a-2018-curso-bootstrap-4-css-framework-diseño-web)
+Para	conseguir	que	una	misma	web	se	pueda	visualizar	correctamente	en	todos	esos tamaños	de	pantalla	ha	diseñado	un	avanzado	sistema	de	rejilla	dividido	en	columnas	para el	posicionamiento	de	los	elementos	de	nuestra	web.	Además	incorpora	otras	muchas utilidades	y	complementos	(formularios,	botones,	barras	de	navegación,	etc.)	para simplificar	el	desarrollo	de	una	web	responsive. [Gallego, 2018](#gallego-a-2018-curso-bootstrap-css-framework-diseño-web)
 Gallego, A. (2018). Curso Bootstrap 4 CSS Framwork diseño web.
   
   A continuación se puede encontrar un curso de Html [Iniciar](https://www.w3schools.com/bootstrap/)
@@ -133,6 +133,4 @@ Proyecto desarrollado en la Materia programación web del  [Programa de Ingenier
 
 
 ###### Gauchat, G. (2012). El gran libro de HTML5, CSS3 y Javascript, Marcombo.
-(#gauchat-g-2012-el-gran-libro-de-html5-css3-y-javascript-marcombo).
-###### Gallego, A. (2018). Curso Bootstrap 4 CSS Framwork diseño web.
-(#gallego-a-2018-curso-bootstrap4-css-framework-diseño-web)
+###### Gallego, A. (2018). Curso Bootstrap y CSS Framwork diseño web.
