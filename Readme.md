@@ -119,7 +119,7 @@ El software es necesario para ver la interacción por consola y depuración del 
 ***
 ### Demo
 
-El proyecto se desplegó en el servidor madarme.co y para ver el demo de la aplicación puede dirigirse a: [Estadísticas covid-19]
+
 
 
 ### Autores
