@@ -99,6 +99,7 @@ Usted puede ver el siguiente marco conceptual sobre Google Charts:
 #### IDE
 
 - El proyecto se desarrolla usando sublime text 3 
+![Sublime](./images/Capture_Sublime.png)
 
 - Visor de JSON ➔ [descargar](http://jsonviewer.stack.hu/)
 
