@@ -119,7 +119,10 @@ El software es necesario para ver la interacción por consola y depuración del 
 ***
 ### Demo
 
-
+![Captura_apicativo](./images/Capture_aplicacion1.png)
+![Captura_apicativo](./images/Capture_aplicacion2.png)
+![Captura_apicativo](./images/Capture_aplicacion3.png)
+![Captura_apicativo](./images/Capture_aplicacion4.png)
 
 
 ### Autores
