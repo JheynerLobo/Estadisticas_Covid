@@ -81,17 +81,20 @@ Existe la funcionalidad básica de presentar tablas personalizadas así como los
 A continuación se puede encontrar un tutorial de Google Charts [Entrar](https://developers.google.com/chart/interactive/docs/quick_start)
 
   
+
 A continuación puede visualizar un video explicativo de cada una de las tecnologías anteriormente nombradas.
 
+Usted puede ver el siguiente marco conceptual sobre HTML5:
+  - [Guia completa de HTML5](https://www.youtube.com/watch?v=M4wmJVvlzeY)
 
 Usted puede ver el siguiente marco conceptual sobre Bootstrap:
   - [Vídeo explicativo de Bootstrap](https://www.youtube.com/watch?v=59pex8k8Xr8)
 
-Usted puede ver el siguiente marco conceptual sobre HTML5:
-  - [Guia completa de HTML5](https://www.w3schools.com/html/default.asp)
+Usted puede ver el siguiente marco conceptual sobre CSS:
+  - [Vídeo explicativo de CSS](https://www.youtube.com/watch?v=VMkA4CMloS0)
 
 Usted puede ver el siguiente marco conceptual sobre JavaScript:
-  - [Guia completa de JavaScript](https://www.w3schools.com/js/default.asp)
+  - [Guia completa de JavaScript](https://www.youtube.com/watch?v=Nrp3c6kNyAw)
 
 Usted puede ver el siguiente marco conceptual sobre Google Charts:
   - [Vídeo explicativo de tablas y gráficas Google Charts](https://www.youtube.com/watch?v=QRN91T8rqW4&feature=emb_logo)
