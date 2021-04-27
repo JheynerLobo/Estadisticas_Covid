@@ -83,6 +83,7 @@ A continuación se puede encontrar un tutorial de Google Charts [Entrar](https:/
   
 A continuación puede visualizar un video explicativo de cada una de las tecnologías anteriormente nombradas.
 
+
 Usted puede ver el siguiente marco conceptual sobre Bootstrap:
   - [Vídeo explicativo de Bootstrap](https://www.youtube.com/watch?v=59pex8k8Xr8)
 
