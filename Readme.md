@@ -50,7 +50,7 @@ Esta mejorada capacidad permitió superar viejas limitaciones de rendimiento y c
 Existen tres técnicas para incorporar código Javascript dentro de HTML. Sin embargo, al igual que en CSS, solo la inclusión de
 archivos externos es la recomendada a usar en HTML5.  
 
-A continuación se puede encontrar un curso de Html [Iniciar](https://www.w3schools.com/js/)
+A continuación se puede encontrar un curso de JavaScript [Iniciar](https://www.w3schools.com/js/)
 
   - [![CSS](https://img.shields.io/badge/CSS-green)](https://gutl.jovenclub.cu/wp-content/uploads/2013/10/El+gran+libro+de+HTML5+CSS3+y+Javascrip.pdf)
 
@@ -60,7 +60,7 @@ IMPORTANTE: En este momento las nuevas incorporaciones de CSS3 están siendo imp
 Oficialmente CSS nada tiene que ver con HTML5. CSS no es parte de la especificación y nunca lo fue. Este lenguaje es, de hecho, un complemento desarrollado para superar las limitaciones y reducir la complejidad de HTML. En consecuencia, CSS pronto fue
 adoptado como la forma de separar la estructura de la presentación. Desde entonces, CSS ha crecido y ganado importancia, pero siempre desarrollado en paralelo, enfocado en las necesidades de los diseñadores y apartado del proceso de evolución de HTML.    [(Gauchat, 2012)](#gauchat-g-2012-el-gran-libro-de-html5-css3-y-javascript-marcombo)
 
-A continuación se puede encontrar un curso de Html [Iniciar](https://www.w3schools.com/css/)
+A continuación se puede encontrar un curso de CSS [Iniciar](https://www.w3schools.com/css/)
 
   - [![Bootstrap](https://img.shields.io/badge/Bootstrap-green)](https://www.pdf-manual.es/programacion-web/css/177-bootstrap-4.html)
 
@@ -69,13 +69,11 @@ Entre	los	navegadores	soportados	se	encuentran	Chrome,	Firefox,	Opera,	Safari	e	
 Está	preparado	para	funcionar	tanto	en	navegadores	de	PCs	y	portátiles	con	cualquier tamaño	de	pantalla	así	como	para	tablets	y	smartphones	de	tamaños	mucho	más reducidos.
 Para	conseguir	que	una	misma	web	se	pueda	visualizar	correctamente	en	todos	esos tamaños	de	pantalla	ha	diseñado	un	avanzado	sistema	de	rejilla	dividido	en	columnas	para el	posicionamiento	de	los	elementos	de	nuestra	web.	Además	incorpora	otras	muchas utilidades	y	complementos	(formularios,	botones,	barras	de	navegación,	etc.)	para simplificar	el	desarrollo	de	una	web	responsive.[(Gallego, 2018)](#gallego-a-2018-curso-bootstrap-4-css-framework-diseño-web)
   
-  A continuación se puede encontrar un curso de Html [Iniciar](https://www.w3schools.com/bootstrap/)
+  A continuación se puede encontrar un curso de Bootstrap [Iniciar](https://www.w3schools.com/bootstrap/)
   
-
-  - Google Charts 
+  - [![Google Charts](https://img.shields.io/badge/Google Charts-green)](https://gutl.jovenclub.cu/wp-content/uploads/2013/10/El+gran+libro+de+HTML5+CSS3+y+Javascrip.pdf)
 
   
-
 A continuación puede visualizar un video explicativo de cada una de las tecnologías anteriormente nombradas.
 
 Usted puede ver el siguiente marco conceptual sobre Bootstrap:
@@ -116,10 +114,10 @@ El proyecto se desplegó en el servidor madarme.co y para ver el demo de la apli
 ### Autores
 Proyecto desarrollado por: 
 
-Leider Martinez (<leideryesidmm@ufps.edu.co>).
-                          
 Jheyner Lobo (<jheyneralexanderld@ufps.edu.co>).
 
+Leider Martinez (<leideryesidmm@ufps.edu.co>).
+                          
 
 ### Institución Académica   
 Proyecto desarrollado en la Materia programación web del  [Programa de Ingeniería de Sistemas] de la [Universidad Francisco de Paula Santander]
