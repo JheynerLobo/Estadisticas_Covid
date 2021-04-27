@@ -40,7 +40,7 @@
 HTML5 no es una nueva versión del antiguo lenguaje de etiquetas, ni siquiera una mejora de esta ya antigua tecnología, sino un concepto nuevo para la construcción del sitio web y aplicaciones en una era que combina dispositivos móviles, computación en la nube.
 HTML5 provee básicamente tres características: Estructura, estilo y funcionalidad. HTML5 es considerado el producto de la combinación de HTML, CSS y JavaScript. Estas tecnologías son altamente dependientes y actúan como una sola unidad organizada bajo la especificación de HTML5. [(Gauchat, 2012)](#gauchat-g-2012-el-gran-libro-de-html5-css3-y-javascript-20128).
 
-A continuación se puede encontrar un curso de Html [Iniciar](https://www.w3schools.com/html/)
+A continuación se puede encontrar un tutorial de Html [Iniciar](https://www.w3schools.com/html/)
 
   - [![JavaScript](https://img.shields.io/badge/JavaScript-green)](https://developer.mozilla.org/es/docs/Web/JavaScript)
 
@@ -50,7 +50,7 @@ Esta mejorada capacidad permitió superar viejas limitaciones de rendimiento y c
 Existen tres técnicas para incorporar código Javascript dentro de HTML. Sin embargo, al igual que en CSS, solo la inclusión de
 archivos externos es la recomendada a usar en HTML5. [(Gauchat, 2012)](#gauchat-g-2012-el-gran-libro-de-html5-css3-y-javascript-20128).   
 
-A continuación se puede encontrar un curso de JavaScript [Iniciar](https://www.w3schools.com/js/)
+A continuación se puede encontrar un tutorial de JavaScript [Iniciar](https://www.w3schools.com/js/)
 
   - [![CSS](https://img.shields.io/badge/CSS-green)](https://books.google.es/books?hl=es&lr=&id=szDMlRzwzuUC&oi=fnd&pg=PA1&dq=html5&ots=0CmNW1rDQa&sig=kpHZE2oVcxAE21hsyLIYWv97fak#v=onepage&q=html5&f=false)
 
@@ -60,10 +60,9 @@ IMPORTANTE: En este momento las nuevas incorporaciones de CSS3 están siendo imp
 Oficialmente CSS nada tiene que ver con HTML5. CSS no es parte de la especificación y nunca lo fue. Este lenguaje es, de hecho, un complemento desarrollado para superar las limitaciones y reducir la complejidad de HTML. En consecuencia, CSS pronto fue
 adoptado como la forma de separar la estructura de la presentación. Desde entonces, CSS ha crecido y ganado importancia, pero siempre desarrollado en paralelo, enfocado en las necesidades de los diseñadores y apartado del proceso de evolución de HTML. [(Gauchat, 2012)](#gauchat-g-2012-el-gran-libro-de-html5-css3-y-javascript-20128)
 
-A continuación se puede encontrar un curso de CSS [Iniciar](https://www.w3schools.com/css/)
+A continuación se puede encontrar un tutorial de CSS [Iniciar](https://www.w3schools.com/css/)
 
   - [![Bootstrap](https://img.shields.io/badge/Bootstrap-green)](https://www.pdf-manual.es/programacion-web/css/177-bootstrap-4.html)
-
 
 
 Como	ya	hemos	comentado	antes,	Bootstrap	es	uno	de	los	frameworks	más	populares	y utilizados	del	mercado	para	la	creación	de	páginas	responsive,	habiendo	sido	desarrollado por	el	equipo	de	Twitter.
@@ -71,9 +70,15 @@ Entre	los	navegadores	soportados	se	encuentran	Chrome,	Firefox,	Opera,	Safari	e	
 Está	preparado	para	funcionar	tanto	en	navegadores	de	PCs	y	portátiles	con	cualquier tamaño	de	pantalla	así	como	para	tablets	y	smartphones	de	tamaños	mucho	más reducidos.
 Para	conseguir	que	una	misma	web	se	pueda	visualizar	correctamente	en	todos	esos tamaños	de	pantalla	ha	diseñado	un	avanzado	sistema	de	rejilla	dividido	en	columnas	para el	posicionamiento	de	los	elementos	de	nuestra	web.	Además	incorpora	otras	muchas utilidades	y	complementos	(formularios,	botones,	barras	de	navegación,	etc.)	para simplificar	el	desarrollo	de	una	web	responsive. [(Gallego, 2018)](#gallego-a-2018-curso-bootstrap-4-css-framework-diseño-web)
   
-  A continuación se puede encontrar un curso de Bootstrap [Iniciar](https://www.w3schools.com/bootstrap/)
+A continuación se puede encontrar un tutorial de Bootstrap [Iniciar](https://www.w3schools.com/bootstrap/)
   
   - [![Google Charts](https://img.shields.io/badge/Google_Charts-green)]()
+
+Es la API de gráficos de Google. Una herramienta que permite a desarrolladores de aplicaciones web crear gráficos a partir de los datos escogidos e incrustarlos en las páginas web.  La API además ofrece una gran variedad de diseños de gráficos a escoger.
+
+Existe la funcionalidad básica de presentar tablas personalizadas así como los diferentes diseños aglutinados en gráficos de barras, gráficos de cajas, candlestick, gráficos compuestos, iconos dinámicos, gráficos de línea, mapas, diagramas circulares. [(Agencia de marketing digital Tresce)](#agencia-de-marketing-digital-tresce-2014-google-charts-la-api-de-graficos-para-el-desarrollo-web)
+
+A continuación se puede encontrar un tutorial de Google Charts [Entrar](https://developers.google.com/chart/interactive/docs/quick_start)
 
   
 A continuación puede visualizar un video explicativo de cada una de las tecnologías anteriormente nombradas.
@@ -133,3 +138,4 @@ Proyecto desarrollado en la Materia programación web del  [Programa de Ingenier
 
 ###### Gauchat, G. (2012). El gran libro de HTML5, CSS3 y Javascript, 2012(8).
 ###### Gallego, A. (2018). Curso Bootstrap 4 CSS Framework diseño web.
+###### Agencia de marketing digital Tresce (2014). Google Charts la API de gráficos para el desarrollo web.
