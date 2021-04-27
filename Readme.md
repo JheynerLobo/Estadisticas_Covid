@@ -133,4 +133,6 @@ Proyecto desarrollado en la Materia programación web del  [Programa de Ingenier
 
 
 ###### Gauchat, G. (2012). El gran libro de HTML5, CSS3 y Javascript, Marcombo.
+(#gauchat-g-2012-el-gran-libro-de-html5-css3-y-javascript-marcombo).
 ###### Gallego, A. (2018). Curso Bootstrap 4 CSS Framwork diseño web.
+(#gallego-a-2018-curso-bootstrap4-css-framework-diseño-web)
