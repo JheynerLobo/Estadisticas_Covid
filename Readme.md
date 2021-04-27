@@ -1,4 +1,4 @@
-54r45![Estadisticas](./images/blue-covid-banner.jpg)
+![Estadisticas](./images/blue-covid-banner.jpg)
 # Título del proyecto:
 
 #### Estadisticas Covid-19 
@@ -99,6 +99,7 @@ Usted puede ver el siguiente marco conceptual sobre Google Charts:
 #### IDE
 
 - El proyecto se desarrolla usando sublime text 3 
+
 - Visor de JSON ➔ [descargar](http://jsonviewer.stack.hu/)
 
 
