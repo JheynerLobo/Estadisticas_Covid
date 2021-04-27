@@ -131,5 +131,6 @@ Proyecto desarrollado en la Materia programación web del  [Programa de Ingenier
    [Universidad Francisco de Paula Santander]:<https://ww2.ufps.edu.co/>
 
 ### Referencias 
-###### Gauchat,G.(2012).El gran libro de HTML5, CSS3 y Javascript. Marcombo.
 
+
+###### Gauchat, G. (2012). El gran libro de HTML5, CSS3 y Javascript, Marcombo..
