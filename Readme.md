@@ -62,7 +62,7 @@ adoptado como la forma de separar la estructura de la presentación. Desde enton
 
 A continuación se puede encontrar un curso de CSS [Iniciar](https://www.w3schools.com/css/)
 
-  - [![Bootstrap](https://img.shields.io/badge/Bootstrap-green)](https://gutl.jovenclub.cu/wp-content/uploads/2013/10/El+gran+libro+de+HTML5+CSS3+y+Javascrip.pdf)
+  - [![Bootstrap](https://img.shields.io/badge/Bootstrap-green)](https://www.pdf-manual.es/programacion-web/css/177-bootstrap-4.html)
 
 
 
